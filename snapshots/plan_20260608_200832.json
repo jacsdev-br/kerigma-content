@@ -1,0 +1,86 @@
+{
+  "biblia": [
+    {
+      "categoria": "PECADO",
+      "prio_cat": 0,
+      "versiculo": "1 JUAN 1:8-10",
+      "prio_ver": 0
+    },
+    {
+      "categoria": "INFIERNO",
+      "prio_cat": 1,
+      "versiculo": "HEBREOS 9:27",
+      "prio_ver": 1
+    },
+    {
+      "categoria": "OTRO",
+      "prio_cat": 0,
+      "versiculo": "Ester 8:9",
+      "prio_ver": 0
+    },
+    {
+      "categoria": "ALABANZA",
+      "prio_cat": 0,
+      "versiculo": "SALMOS 117:1-2",
+      "prio_ver": 0
+    }
+  ],
+  "frases": [
+    {
+      "personaje": "Flavio Josefo (Judio romano)",
+      "prio_cat": 0,
+      "frase": "Al tercer d?a ?l apareci? ante ellos habiendo vuelto a la vida",
+      "prio_frase": 0
+    },
+    {
+      "personaje": "George Muller (P.Orfanato)",
+      "prio_cat": 0,
+      "frase": "El comienzo de la ansiedad es el final de la fe, y el comienzo de la verdadera fe es el final de la ansiedad",
+      "prio_frase": 0
+    }
+  ],
+  "testimonios": [
+    {
+      "categoria": "Gracia Persistente",
+      "prio_cat": 3,
+      "testimonio": "Africa Aragon: Perd? la fe durante a?os, viviendo en vac?o y creyendo en simples casualidades. Pero Dios fue respondiendo a mis peticiones, incluso cuando dudaba de ?l.  A trav?s de la muerte de mi padre, me mostr? su presencia y transform? mi dolor. Hoy vivo una fe profunda, sostenida por la certeza de que Dios act?a en mi vida.",
+      "prio_testimonio": 0
+    }
+  ],
+  "religiones": [
+    {
+      "religion": "Relativismo",
+      "prio_rel": 0,
+      "dogma": "La postura de 'tengo mi propia verdad', la cual se refuta ante la existencia de leyes morales y f?sicas objetivas.",
+      "prio_dogma": 0
+    },
+    {
+      "religion": "Falso Cristianismo",
+      "prio_rel": 1,
+      "dogma": "Oferta de salvaci?n sin costo, perd?n sin arrepentimiento y un Dios sin ira ni juicio.",
+      "prio_dogma": 1
+    }
+  ],
+  "recursos": [
+    {
+      "medio": "Ateo",
+      "prio_med": 1,
+      "link": "https://youtu.be/_Xzo-ENpggg?si=x44ygBP7oaLJhuw1",
+      "prio_link": 1
+    },
+    {
+      "medio": "Video",
+      "prio_med": 2,
+      "link": "https://youtu.be/_Xzo-ENpggg?si=x44ygBP7oaLJhuw1",
+      "prio_link": 0
+    }
+  ],
+  "iglesias": [
+    {
+      "zona": "Distrito Metropolitano ",
+      "prio_zon": 0,
+      "datos_iglesia": "Iglesia: Familia en Cristo. Direcci?n: Contramaestre Micalvi 21, ?u?oa. ",
+      "prio_igle": 0
+    }
+  ]
+}
